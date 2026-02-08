@@ -11,20 +11,20 @@ NAASE was founded in 2006 as an organization devoted to the study of sports econ
 ## Leadership 
 
 ### Current Officers
-2025-2026
-President: Frank Stephenson, Berry College
-President-Elect: Eva Marikova Leeds, Moravian College
-Past-President: J.C Bradbury, Kennesaw State University
-At-Large Board Members:
-Patrick Reilly, Skidmore College
-Brian Soebbing, University of Alberta
-Clay Collins, University of Georgia
-Craig Depken, University of North Carolina-Charlotte
-Treasurer: Victor Matheson, College of the Holy Cross
-Secretary:  Jane Ruseski, West Virginia University
-Western Economic Association Meeting Committee Chair:  Jane Ruseski, Jill Harris
-Southern Economic Association Meeting Committee Chair: Frank Stephenson
-Eastern Economic Association Meeting Committee Chair:  Eva Marikova Leeds
+2025-2026  
+President: Frank Stephenson, Berry College  
+President-Elect: Eva Marikova Leeds, Moravian College  
+Past-President: J.C Bradbury, Kennesaw State University  
+At-Large Board Members:  
+Patrick Reilly, Skidmore College  
+Brian Soebbing, University of Alberta  
+Clay Collins, University of Georgia  
+Craig Depken, University of North Carolina-Charlotte  
+Treasurer: Victor Matheson, College of the Holy Cross  
+Secretary:  Jane Ruseski, West Virginia University  
+Western Economic Association Meeting Committee Chair:  Jane Ruseski, Jill Harris  
+Southern Economic Association Meeting Committee Chair: Frank Stephenson  
+Eastern Economic Association Meeting Committee Chair:  Eva Marikova Leeds  
 
 ### Past Officers
 2024-2025
