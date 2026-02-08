@@ -24,7 +24,7 @@ At-Large: Craig Depken, University of North Carolina-Charlotte
 Treasurer: Victor Matheson, College of the Holy Cross  
 Secretary:  Jane Ruseski, West Virginia University  
 
-*Program Chairs*
+*Program Chairs*  
 Western Economic Association Meeting Committee Chair:  Jane Ruseski, Jill Harris  
 Southern Economic Association Meeting Committee Chair: Frank Stephenson  
 Eastern Economic Association Meeting Committee Chair:  Eva Marikova Leeds  
@@ -35,20 +35,20 @@ President: Frank Stephenson
 President-Elect: Eva Marikova Leeds  
 Past-President: J.C Bradbury  
 At-Large Board Members:
-Patrick Reilly
-Brian Soebbing
-Jill Harris
-Craig Depken
+Patrick Reilly, 
+Brian Soebbing, 
+Jill Harris, 
+Craig Depken,  
 Treasurer: Victor Matheson  
 Secretary:  Jane Ruseski  
 
-2<u>023-2024</u>
+<u>2023-2024</u>
 President: J.C Bradbury, Kennesaw State University
 President-Elect: Frank Stephenson, Berry College
 At-Large Board Members:
-Jill Harris, US Air Force Academy
-Eva Marikova Leeds, Moravian College
-Brian Soebbing, University of Alberta
-Patrick Reilly, Skidmore College
-Treasurer : Victor Matheson, College of the Holy Cross
-Secretary:  Jane Ruseski, West Virginia University
+Jill Harris,
+Eva Marikova Leeds, 
+Brian Soebbing, 
+Patrick Reilly,  
+Treasurer : Victor Matheson, College of the Holy Cross  
+Secretary:  Jane Ruseski, West Virginia University  
