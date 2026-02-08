@@ -20,7 +20,7 @@ Past-President: J.C Bradbury, Kennesaw State University
 At-Large: Patrick Reilly, Skidmore College  
 At-Large: Brian Soebbing, University of Alberta  
 At-Large: Clay Collins, University of Georgia  
-At-Large: Craig Depken, University of North Carolina-Charlotte 
+At-Large: Craig Depken, University of North Carolina-Charlotte  
 Treasurer: Victor Matheson, College of the Holy Cross  
 Secretary:  Jane Ruseski, West Virginia University  
 
