@@ -12,13 +12,13 @@ NAASE was founded in 2006 to promote and facilitate research and teaching in the
 
 NAASE's Executive Committee consists of seven elected members (President, President-elect, immediate Past-President, and four at-large members) along with an  appointed Secretary (non-voting) and Treasurer (non-voting). Additional officers are three Program Chairs, appointed by the Executive Committee to organize sports economics sessions at allied meetings.
 
-Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership.md) page to join.
+Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
 
 ### Current Officers
 <u>2025-2026 </u>  
 President: Frank Stephenson, Berry College  
 President-Elect: Eva Marikova Leeds, Moravian College  
-Past-President: J.C Bradbury, Kennesaw State University  
+Past-President: J.C. Bradbury, Kennesaw State University  
 At-Large: Patrick Reilly, Skidmore College  
 At-Large: Brian Soebbing, University of Alberta  
 At-Large: Clay Collins, University of Georgia  
@@ -35,7 +35,7 @@ Eastern Economic Association Meeting Committee Chair:  Eva Marikova Leeds
 <u>2024-2025</u>  
 President: Frank Stephenson  
 President-Elect: Eva Marikova Leeds  
-Past-President: J.C Bradbury  
+Past-President: J.C. Bradbury  
 At-Large Board Members:
 Patrick Reilly, 
 Brian Soebbing, 
@@ -45,7 +45,7 @@ Treasurer: Victor Matheson
 Secretary:  Jane Ruseski  
 
 <u>2023-2024</u>
-President: J.C Bradbury, Kennesaw State University
+President: J.C. Bradbury, Kennesaw State University
 President-Elect: Frank Stephenson, Berry College
 At-Large Board Members:
 Jill Harris,
