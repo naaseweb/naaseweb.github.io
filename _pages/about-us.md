@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-NAASE was founded in 2006 to promote and facilitate research and teaching in the economics of sports. The Association works to maintain and enhance communication and sharing of ideas among people interested in the economics of sports, within North America and throughout the world. 
+NAASE was founded in 2007 to promote and facilitate research and teaching in the economics of sports. The Association works to maintain and enhance communication and sharing of ideas among people interested in the economics of sports, within North America and throughout the world. 
 
 Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
 
@@ -57,118 +57,110 @@ Patrick Reilly,
 Treasurer : Victor Matheson, College of the Holy Cross  
 Secretary:  Jane Ruseski, West Virginia University  
 
-<u>2021-2022</u>
+<u>2021-2022</u>  
 President:  Craig Depken  
-President-Elect: J.C Bradbury  
+President-Elect: J.C. Bradbury  
 At-Large Board Members: Frank Stephenson, Nola Agha , Brad Humphreys, Jill Harris  
 Treasurer: John Solow  
 Secretary: Jane Ruseski  
 
 
-<u>2020-2021</u>
-President — Craig Depken, UNC Charlotte
-President-Elect — J.C Bradbury, Kennesaw State University
-At-Large Board Members — Frank Stephenson, Nola Agha , Brad Humphreys, Jill Harris
-Treasurer — John Solow
-Secretary — Jane Ruseski
-Western Economic Association Meeting Committee Chair – Jane Ruseski
-Southern Economic Association Meeting Committee Chair -Frank Stephenson
-Eastern Economic Association Meeting Committee Chair – Eva Marikova Leeds
+<u>2020-2021</u>  
+President: Craig Depken  
+President-Elect: J.C. Bradbury  
+At-Large Board Members: Frank Stephenson, Nola Agha , Brad Humphreys, Jill Harris  
+Treasurer: John Solow  
+Secretary: Jane Ruseski  
 
-2019-20
 
-President — Victor Matheson
-President-Elect — Craig Depken
-At-Large Board Members — Frank Stephenson, Nola Agha , Brad Humphreys, Jill Harris
-Treasurer — John Solow
-Secretary — Jane Ruseski
-Western Economic Association Meeting Committee Chair – Jane Ruseski
-Southern Economic Association Meeting Committee Chair -Frank Stephenson
-Eastern Economic Association Meeting Committee Chair – Eva Marikova Leeds
+<u>2019-2020</u>  
+President: Victor Matheson  
+President-Elect: Craig Depken  
+At-Large Board Members: Frank Stephenson, Nola Agha , Brad Humphreys, Jill Harris  
+Treasurer: John Solow  
+Secretary: Jane Ruseski  
 
-2018-19
-President — Victor Matheson
-President-Elect — Craig Depken
-At-Large Board Members — Frank Stephenson, Trevon Logan , Brad Humphreys, Jill Harris
-Treasurer — John Solow
-Secretary — Jane Ruseski
-Western Economic Association Meeting Committee Chair – Jane Ruseski
-Southern Economic Association Meeting Committee Chair -Frank Stephenson
-Eastern Economic Association Meeting Committee Chair – Eva Marikova Leeds
+<u>2018-2019</u>  
+President: Victor Matheson  
+President-Elect: Craig Depken  
+At-Large Board Members:  Frank Stephenson, Trevon Logan , Brad Humphreys, Jill Harris  
+Treasurer: John Solow  
+Secretary: Jane Ruseski  
 
-2017-18
-President — Dennis Coates
-President-Elect — Victor Matheson
-At-Large Board Members — Frank Stephenson, Trevon Logan, Brad Humphreys, Craig Depken
-Treasurer — John Solow
-Secretary — Jane Ruseski
 
-2016-17
-President — Dennis Coates
-President-Elect — Victor Matheson
-At-Large Board Members — Steve Walters, Trevon Logan, Brad Humphreys, Craig Depken
-Treasurer — John Solow
-Secretary — Jane Ruseski
+<u>2017-2018</u>  
+President: Dennis Coates  
+President-Elect: Victor Matheson  
+At-Large Board Members: Frank Stephenson, Trevon Logan, Brad Humphreys, Craig Depken  
+Treasurer: John Solow  
+Secretary: Jane Ruseski  
 
-2015-16
-President — Peter von Allmen
-President-Elect — Dennis Coates
-At-Large Board Members — Trevon Logan, Brad Humphreys, Craig Depken, Steve Walters
-Treasurer — John Solow
-Secretary — Victor Matheson
+<u>2016-2017</u>  
+President: Dennis Coates  
+President-Elect: Victor Matheson  
+At-Large Board Members: Steve Walters, Trevon Logan, Brad Humphreys, Craig Depken  
+Treasurer: John Solow  
+Secretary: Jane Ruseski  
 
-2014-2015
-President — Peter von Allmen
-President-Elect — Dennis Coates
-At-Large Board Members — Todd Jewell, Brad Humphreys, Craig Depken, Steve Walters
-Treasurer — John Solow
-Secretary — Victor Matheson
+<u>2015-2016</u>  
+President: Peter von Allmen  
+President-Elect:  Dennis Coates  
+At-Large Board Members: Trevon Logan, Brad Humphreys, Craig Depken, Steve Walters  
+Treasurer: John Solow  
+Secretary: Victor Matheson  
 
-2013-2014
-President — Mike Leeds
-President-Elect — Peter von Allmen
-At-Large Board Members — Todd Jewell, Brad Humphreys, Dennis Coates, Steve Walters
-Treasurer — John Solow
-Secretary — Victor Matheson
+<u>2014-2015</u>  
+President: Peter von Allmen  
+President-Elect: Dennis Coates  
+At-Large Board Members: Todd Jewell, Brad Humphreys, Craig Depken, Steve Walters  
+Treasurer: John Solow  
+Secretary:  Victor Matheson 
 
-2012-2013
-President — Skip Sauer
-President-Elect — Mike Leeds
-Vice Presidents — Joe Price, Brad Humphreys, Dennis Coates, Ross Booth
-Treasurer — John Solow
-Secretary — Victor Matheson
+<u>2013-2014</u>
+President: Mike Leeds  
+President-Elect: Peter von Allmen  
+At-Large Board Members: Todd Jewell, Brad Humphreys, Dennis Coates, Steve Walters  
+Treasurer: John Solow  
+Secretary: Victor Matheson  
 
-2011-2012
-President — Rob Simmons
-President-Elect — Skip Sauer
-Vice Presidents — Bruce Johnson, Stefan Syzmanski, Ross Booth, Joe Price
-Treasurer — John Solow
-Secretary — Victor Matheson
+<u>2012-2013</u>  
+President: Skip Sauer  
+President-Elect: Mike Leeds  
+Vice Presidents: Joe Price, Brad Humphreys, Dennis Coates, Ross Booth  
+Treasurer: John Solow  
+Secretary: Victor Matheson  
 
-2010-2011
-President — Dave Berri
-President-Elect — Rob Simmons
-Vice Presidents — Bruce Johnson, Stefan Syzmanski, Duane Rockerbie, Mike Leeds
-Treasurer — John Solow
-Secretary —Victor Matheson
+<u>2011-2012</u>  
+President: Rob Simmons  
+President-Elect: Skip Sauer  
+Vice Presidents:  Bruce Johnson, Stefan Syzmanski, Ross Booth, Joe Price  
+Treasurer: John Solow  
+Secretary: Victor Matheson  
 
-2009-2010
-President — Brad Humphreys
-President-Elect — Dave Berri
-Vice Presidents — Mike Leeds, Rob Simmons, Craig Depken, Tony Krautmann
-Treasurer — John Solow
-Secretary —Stacey Brook
+<u>2010-2011</u>  
+President: Dave Berri  
+President-Elect: Rob Simmons  
+Vice Presidents: Bruce Johnson, Stefan Syzmanski, Duane Rockerbie, Mike Leeds  
+Treasurer: John Solow  
+Secretary: Victor Matheson  
 
-2008-2009
-President — Dennis Coates
-President-Elect — Brad Humphreys
-Vice Presidents — Bernd Frick, Dave Berri, Peter von Allmen, Tony Krautmann
-Treasurer — John Solow
-Secretary —Stacey Brook
+<u>2009-2010</u>  
+President: Brad Humphreys  
+President-Elect: Dave Berri  
+Vice Presidents: Mike Leeds, Rob Simmons, Craig Depken, Tony Krautmann  
+Treasurer: John Solow  
+Secretary: Stacey Brook  
 
-2007-2008
-President — vacant
-President-Elect — Dennis Coates
-Vice Presidents — Brad Humphreys, Dave Berri, Peter von Allmen, Tony Krautmann
-Treasurer — John Solow
-Secretary —Stacey Brook
+<u>2008-2009</u>  
+President: Dennis Coates  
+President-Elect: Brad Humphreys  
+Vice Presidents: Bernd Frick, Dave Berri, Peter von Allmen, Tony Krautmann  
+Treasurer: John Solow  
+Secretary: Stacey Brook  
+
+<u>2007-2008</u>
+President: vacant  
+President-Elect: Dennis Coates  
+Vice Presidents: Brad Humphreys, Dave Berri, Peter von Allmen, Tony Krautmann  
+Treasurer: John Solow  
+Secretary: Stacey Brook  
