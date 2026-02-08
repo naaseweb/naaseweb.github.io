@@ -1,0 +1,9 @@
+/* Rectangular profile picture (disable circle/oval) */
+.author__avatar,
+.author__avatar img {
+  border-radius: 0 !important;
+}
+
+.author__avatar {
+  overflow: visible !important; /* stop clipping to an oval */
+}
