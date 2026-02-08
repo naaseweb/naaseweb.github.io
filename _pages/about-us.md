@@ -19,8 +19,7 @@ NAASE's Executive Committee consists of seven elected members (President, Presid
 
 ### Current Officers
 <u>2025-2026 </u>  
-
-*Executive Committee* 
+*Executive Committee*  
 President: Frank Stephenson, Berry College  
 President-Elect: Eva Marikova Leeds, Moravian College  
 Past-President: J.C. Bradbury, Kennesaw State University  
