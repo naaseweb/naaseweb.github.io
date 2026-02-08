@@ -55,8 +55,8 @@ Jill Harris,
 Eva Marikova Leeds, 
 Brian Soebbing, 
 Patrick Reilly,  
-Treasurer : Victor Matheson, College of the Holy Cross  
-Secretary:  Jane Ruseski, West Virginia University  
+Treasurer : Victor Matheson  
+Secretary:  Jane Ruseski    
 
 <u>2021-2022</u>  
 President:  Craig Depken  
