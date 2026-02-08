@@ -11,7 +11,7 @@ NAASE was founded in 2006 to promote and facilitate research and teaching in the
 ## Leadership 
 
 ### Current Officers
-<u>2025-2026 </u> 
+<u>2025-2026 </u>  
 President: Frank Stephenson, Berry College  
 President-Elect: Eva Marikova Leeds, Moravian College  
 Past-President: J.C Bradbury, Kennesaw State University  
@@ -19,7 +19,8 @@ At-Large Board Members:
 - Patrick Reilly, Skidmore College  
 - Brian Soebbing, University of Alberta  
 - Clay Collins, University of Georgia  
-- Craig Depken, University of North Carolina-Charlotte  
+- Craig Depken, University of North Carolina-Charlotte 
+ 
 Treasurer: Victor Matheson, College of the Holy Cross  
 Secretary:  Jane Ruseski, West Virginia University  
 Western Economic Association Meeting Committee Chair:  Jane Ruseski, Jill Harris  
