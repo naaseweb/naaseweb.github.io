@@ -1,9 +1,20 @@
-/* Rectangular profile picture (disable circle/oval) */
+/* RECTANGULAR AVATAR OVERRIDE (strong) */
 .author__avatar,
-.author__avatar img {
+.author__avatar a,
+.author__avatar img,
+.author__avatar img.u-photo,
+.author__avatar .u-photo {
   border-radius: 0 !important;
 }
 
-.author__avatar {
-  overflow: visible !important; /* stop clipping to an oval */
+.author__avatar,
+.author__avatar a {
+  overflow: visible !important;
+}
+
+/* In case the theme forces a fixed square + masks it */
+.author__avatar img,
+.author__avatar img.u-photo {
+  clip-path: none !important;
+  mask-image: none !important;
 }
