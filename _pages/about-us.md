@@ -35,7 +35,6 @@ Eastern Economic Association Meeting Committee Chair:  Eva Marikova Leeds
 <u>2024-2025</u>  
 President: Frank Stephenson  
 President-Elect: Eva Marikova Leeds  
-Past-President: J.C. Bradbury  
 At-Large Board Members:
 Patrick Reilly, 
 Brian Soebbing, 
@@ -44,9 +43,9 @@ Craig Depken,
 Treasurer: Victor Matheson  
 Secretary:  Jane Ruseski  
 
-<u>2023-2024</u>
-President: J.C. Bradbury, Kennesaw State University
-President-Elect: Frank Stephenson, Berry College
+<u>2023-2024</u>  
+President: J.C. Bradbury  
+President-Elect: Frank Stephenson  
 At-Large Board Members:
 Jill Harris,
 Eva Marikova Leeds, 
