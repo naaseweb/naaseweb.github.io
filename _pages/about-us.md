@@ -8,11 +8,14 @@ published: true
 
 NAASE was founded in 2006 to promote and facilitate research and teaching in the economics of sports. The Association works to maintain and enhance communication and sharing of ideas among people interested in the economics of sports, within North America and throughout the world. 
 
+Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
+
 ## Leadership 
 
 NAASE's Executive Committee consists of seven elected members (President, President-elect, immediate Past-President, and four at-large members) along with an  appointed Secretary (non-voting) and Treasurer (non-voting). Additional officers are three Program Chairs, appointed by the Executive Committee to organize sports economics sessions at allied meetings.
 
-Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
+[NAASE By-Laws](/files/NAASE_Bylaws.pdf)
+
 
 ### Current Officers
 <u>2025-2026 </u>  
