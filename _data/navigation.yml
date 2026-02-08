@@ -9,7 +9,7 @@
 
 main:
   - title: "About"
-    url: /aboutus/
+    url: /about-us/
   - title: "Membership"
     url: /membership/
   - title: "Conferences"
