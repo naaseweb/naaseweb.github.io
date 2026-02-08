@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-## Larry Hadley Service Award
+# Larry Hadley Service Award
 
 Larry Hadley was a distinguished economist and long time faculty member at the University of Dayton who helped launch the burgeoning field of sports economics. Together with Elizabeth Gustafson, he organized one of the first sessions on sports economics at the Western Economics Association (WEA) meetings in 1995. Based on the popularity of these sessions, together with the growing worldwide interest in the discipline, the WEAI currently allocates many sessions at the annual meetings to sports economics.
 
@@ -14,8 +14,8 @@ One result of Larry’s efforts to initiate and nurture these annual sessions wa
 
 NAASE created the Larry Hadley Service Award in recognition of its namesake's valuable service contributions to the field of sports economics. This award is given every two years to a deserving recipient who has distinguished herself or himself through service to NAASE and the field of sports economics. Individuals can contribute to sports economics in many ways,  but this award is intended to honor those whose contributions are deemed unusual and outstanding in scope and duration.
 
-### Recipients
-2024: John Solow  
+## Recipients##
+### 2024: John Solow ### 
 
 John Solow served as NAASE's Treasurer from its founding in 2007 through 2022. He spent a long career conducting research in the field of sports economics, serving on the faculties of University of Iowa and University of Central Florida. He was a regular attendee at NAASE conference meetings, and he played a strong role in growing the Association.
 
