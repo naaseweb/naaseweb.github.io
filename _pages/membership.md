@@ -22,8 +22,8 @@ How to Join NAASE
 
 2. Via Mail: send a check and completed Membership Form to the Treasurer:
 
-Victor Matheson
-Department of Economics
-College of the Holy Cross
-1 College St.
-Worcester, MA 01610
+Victor Matheson  
+Department of Economics  
+College of the Holy Cross  
+1 College St.  
+Worcester, MA 01610  
