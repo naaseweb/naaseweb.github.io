@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "naase_profile.png"
+  avatar           : "profile.png"
   name             : "North American Association of Sports Economists (NAASE)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
