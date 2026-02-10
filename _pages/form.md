@@ -5,6 +5,8 @@ permalink: /form/
 published: true
 ---
 
+test test
+
 <form id="membershipForm"
       action="https://formspree.io/f/meeleqrr"
       method="POST">
