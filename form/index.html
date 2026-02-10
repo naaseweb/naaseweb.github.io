@@ -1,132 +1,41 @@
 ---
 layout: archive
-title: "Membership Form"
-permalink: /form/
+title: "Membership Payment"
+permalink: /payment/
 author_profile: true
 published: true
 ---
 
-<form id="membershipForm" novalidate>
-  <p>
-    Country code (if outside North America)<br>
-    <input maxlength="4" name="CountryCode" size="4" type="text" style="max-width:120px;">
-  </p>
+<p>Select a membership option and complete payment through PayPal.</p>
 
-  <table border="0" width="100%">
-    <tbody>
-      <tr>
-        <td width="25%">First Name*</td>
-        <td width="50%"><input maxlength="30" name="FirstName" size="30" type="text" required></td>
-      </tr>
-      <tr>
-        <td>Last Name*</td>
-        <td><input maxlength="30" name="LastName" size="30" type="text" required></td>
-      </tr>
-      <tr>
-        <td>Department</td>
-        <td><input maxlength="40" name="Department" size="30" type="text"></td>
-      </tr>
-      <tr>
-        <td>College or University</td>
-        <td><input maxlength="40" name="University" size="30" type="text"></td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <em>(Your JSE subscription will be sent to this address. You can use a different billing address at PayPal.)</em>
-        </td>
-      </tr>
-      <tr>
-        <td>Address*</td>
-        <td><input maxlength="40" name="AddrLine" size="30" type="text" required></td>
-      </tr>
-      <tr>
-        <td>City*</td>
-        <td><input maxlength="40" name="City" size="30" type="text" required></td>
-      </tr>
-      <tr>
-        <td>State*</td>
-        <td><input maxlength="2" name="State" size="2" type="text" required></td>
-      </tr>
-      <tr>
-        <td>ZIP Code*</td>
-        <td><input maxlength="10" name="ZIP" size="10" type="text" required></td>
-      </tr>
-      <tr>
-        <td>Phone (10 digits, no dashes)</td>
-        <td><input maxlength="10" name="Phone" size="10" type="text"></td>
-      </tr>
-      <tr>
-        <td>Email Address*</td>
-        <td><input maxlength="256" name="mailfrom" size="30" type="email" required></td>
-      </tr>
-      <tr>
-        <td>Student</td>
-        <td><input name="Student" type="checkbox" value="Yes"></td>
-      </tr>
-    </tbody>
-  </table>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input name="cmd" type="hidden" value="_s-xclick">
+  <input name="hosted_button_id" type="hidden" value="BVYB3JU3KKGRN">
 
-  <input type="hidden" name="_subject" value="New NAASE Membership Submission">
-  <input type="text" name="_gotcha" style="display:none">
-
-  <p style="margin-top: 12px;">
-    <button id="submitBtn" type="button" class="btn btn--primary">Continue to Payment</button>
-    <span id="status" style="margin-left:10px; font-weight:600;" aria-live="polite"></span>
-  </p>
+  <p><strong>Payment Options</strong></p>
 
   <p>
-    If you have trouble submitting, you can proceed directly to payment:
-    <a href="/payment/">/payment/</a>
+    <select name="os0">
+      <option value="1-year -- print and electronic subscription">1-year — print and electronic subscription $55.00 USD</option>
+      <option value="2-year -- print and electronic subscription">2-year — print and electronic subscription $110.00 USD</option>
+      <option value="3-year -- print and electronic subscription">3-year — print and electronic subscription $165.00 USD</option>
+      <option value="1-year -- electronic only subscription">1-year — electronic only subscription $40.00 USD</option>
+      <option value="2-year -- electronic only subscription">2-year — electronic only subscription $80.00 USD</option>
+      <option value="3-year -- electronic only subscription">3-year — electronic only subscription $120.00 USD</option>
+      <option value="1-year student membership - electronic only">1-year student membership – electronic only $30.00 USD</option>
+    </select>
+  </p>
+
+  <input name="currency_code" type="hidden" value="USD">
+
+  <!-- Normal submit button (more reliable than PayPal image button) -->
+  <p>
+    <button type="submit" class="btn btn--primary">Pay with PayPal</button>
+  </p>
+
+  <!-- Optional fallback direct link -->
+  <p style="font-size: 0.95em;">
+    If the button doesn’t work, try this:
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BVYB3JU3KKGRN" target="_blank" rel="noopener">Open PayPal checkout</a>
   </p>
 </form>
-
-<script>
-  (function () {
-    const FORMSPREE = "https://formspree.io/f/meeleqrr";
-    const form = document.getElementById("membershipForm");
-    const btn = document.getElementById("submitBtn");
-    const status = document.getElementById("status");
-
-    function validateRequired() {
-      const required = form.querySelectorAll("[required]");
-      for (const el of required) {
-        if (!el.value || !el.value.trim()) {
-          el.focus();
-          return false;
-        }
-      }
-      const email = form.querySelector('input[name="mailfrom"]');
-      if (email && !/^\S+@\S+\.\S+$/.test(email.value.trim())) {
-        email.focus();
-        return false;
-      }
-      return true;
-    }
-
-    btn.addEventListener("click", async function () {
-      if (!validateRequired()) {
-        status.textContent = "Please complete required fields.";
-        return;
-      }
-
-      status.textContent = "Submitting…";
-      btn.disabled = true;
-
-      try {
-        const data = new FormData(form);
-        const resp = await fetch(FORMSPREE, {
-          method: "POST",
-          body: data,
-          headers: { "Accept": "application/json" }
-        });
-        if (!resp.ok) throw new Error("Formspree submission failed");
-
-        // Relative redirect: works on GitHub Pages + future custom domain
-        window.location.assign("/payment/");
-      } catch (e) {
-        status.textContent = "Submit failed. Please try again or use the payment link.";
-        btn.disabled = false;
-      }
-    });
-  })();
-</script>
