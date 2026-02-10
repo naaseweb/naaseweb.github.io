@@ -6,13 +6,13 @@ author_profile: true
 published: true
 ---
 
- ## [Coates-Humphreys NAASE Distinguished Research Award](#coates-humphreys-naase-distinguished-research-award) ##
+[##  Coates-Humphreys NAASE Distinguished Research Award ## ](#coates-humphreys-distinguished-research-award) 
 
  ## [Larry Hadley Service Award](#larry-hadley-service-award) ##
 
  ## [Graduate Student Paper Award](#graduate-student-paper-award) ##
 
-## Coates-Humphreys NAASE Distinguished Research Award
+## Coates-Humphreys Distinguished Research Award
 In 2025, the NAASE Executive Board conferred its inaugural research award on Dennis Coates and Brad Humphreys. The award was named in their honor to recognize not only the distinguished scholarly records of the recipients (the primary criterion for the award), but also to acknowledge their extensive contributions to NAASE,  including serving as presidents of the organization and activities connecting NAASE to sports economics communities within and outside North America. The award will be given in odd-numbered years, and the selection committee will be previous award winners and the current president of NAASE.
 
 ### Recipients ###
