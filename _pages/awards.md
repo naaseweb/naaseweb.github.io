@@ -6,7 +6,15 @@ author_profile: true
 published: true
 ---
 
-# Larry Hadley Service Award
+# [Coates-Humphreys NAASE Distinguished Research Award](#coates-humphreys-naase-distinguished-research-award)
+
+# [Larry Hadley Service Award](#larry-hadley-service-award)
+
+# [Graduate Student Paper Award](#grad-paper)
+
+## Coates-Humphreys NAASE Distinguished Research Award
+
+## Larry Hadley Service Award 
 
 Larry Hadley was a distinguished economist and long time faculty member at the University of Dayton who helped launch the burgeoning field of sports economics. Together with Elizabeth Gustafson, he organized one of the first sessions on sports economics at the Western Economics Association (WEA) meetings in 1995. Based on the popularity of these sessions, together with the growing worldwide interest in the discipline, the WEAI currently allocates many sessions at the annual meetings to sports economics.
 
