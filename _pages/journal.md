@@ -23,12 +23,12 @@ Relevant topics include:
 
 There are two steps for activating society member access on the SAGE Journals platform:
 
-1. Register for and Access/Profile with SAGE 
+1). Register for and Access/Profile with SAGE 
 
-If you have not previously registered for an account, click [here](https://journals.sagepub.com/action/registration) and follow the instructions to create your profile.
+ -If you have not previously registered for an account, click [here](https://journals.sagepub.com/action/registration) and follow the instructions to create your profile.
 
-If you have previously registered, follow this [link](https://journals.sagepub.com/action/requestResetPassword) , then enter your email address associated with your membership in the tab to request a password for your account. You will receive an email with a link to set a password. 
+ - If you have previously registered, follow this [link](https://journals.sagepub.com/action/requestResetPassword) , then enter your email address associated with your membership in the tab to request a password for your account. You will receive an email with a link to set a password. 
 
-2. Activating society membership access 
+2). Activating society membership access 
 
-Once you are logged into your account, click on Access/Profile to see a drop-down list, and click on ViewProfile which will take you to “My profile” page then click on ‘Society Member Access’ tab. Here select your society “North American Association of Sports Economists” from the dropdown-menu and add your membership number to activate your access. If you need your membership number, email the [Treasurer](vmatheso@holycross.edu).
+ - Once you are logged into your account, click on Access/Profile to see a drop-down list, and click on ViewProfile which will take you to “My profile” page then click on ‘Society Member Access’ tab. Here select your society “North American Association of Sports Economists” from the dropdown-menu and add your membership number to activate your access. If you need your membership number, email the [Treasurer](vmatheso@holycross.edu).
