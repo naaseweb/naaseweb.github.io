@@ -18,10 +18,10 @@ NAASE has committed to organizing sports economics sessions at the annual meetin
 
 ## Upcoming Conferences
 
-- Western Economic Association International ([June 29 - July 3, 2026 | Denver Colorado](https://www.weai.org/events/101st-annual))
+- Western Economic Association International ([June 29 - July 3, 2026 \| Denver Colorado](https://www.weai.org/events/101st-annual))
     - Program Chair: Jane Ruseski and Jill Harris.   
 
-- Southern Economic Association ([November 21-23, 2026  |  Houston, TX](https://southerneconomic.org/conference/))
+- Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
     - Contact: Frank Stephenson
 
 - Eastern Economic Association ()
