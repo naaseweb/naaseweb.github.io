@@ -6,11 +6,11 @@ author_profile: true
 published: true
 ---
 
-# [Coates-Humphreys NAASE Distinguished Research Award](#coates-humphreys-naase-distinguished-research-award)
+ [Coates-Humphreys NAASE Distinguished Research Award](#coates-humphreys-naase-distinguished-research-award)
 
-# [Larry Hadley Service Award](#larry-hadley-service-award)
+ [Larry Hadley Service Award](#larry-hadley-service-award)
 
-# [Graduate Student Paper Award](#grad-paper)
+ [Graduate Student Paper Award](#graduate-student-paper-award)
 
 ## Coates-Humphreys NAASE Distinguished Research Award
 
