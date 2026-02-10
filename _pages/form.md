@@ -9,82 +9,25 @@ published: true
       action="https://formspree.io/f/meeleqrr"
       method="POST">
 
+<!-- … your existing fields … -->
+
+<!-- Redirect: set dynamically to current domain + /payment/ -->
+<input type="hidden" id="_next" name="_next" value="">
+
+<input type="hidden" name="_subject" value="New NAASE Membership Submission">
+<input type="text" name="_gotcha" style="display:none">
+
 <p>
-Country code (if outside North America)<br>
-<input maxlength="4" name="CountryCode" size="4" type="text">
+  <input type="submit" value="Continue to Payment">
 </p>
 
-<table border="0" width="100%">
-<tbody>
+</form>
 
-<tr>
-<td width="25%">First Name*</td>
-<td width="50%">
-<input maxlength="30" name="FirstName" size="30" type="text" required>
-</td>
-</tr>
+<script>
+  // Make Formspree redirect work on both dev and production domains
+  document.getElementById('_next').value = window.location.origin + '/payment/';
+</script>
 
-<tr>
-<td>Last Name*</td>
-<td>
-<input maxlength="30" name="LastName" size="30" type="text" required>
-</td>
-</tr>
-
-<tr>
-<td>Department</td>
-<td>
-<input maxlength="40" name="Department" size="30" type="text">
-</td>
-</tr>
-
-<tr>
-<td>College or University</td>
-<td>
-<input maxlength="40" name="University" size="30" type="text">
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<em>(Your JSE subscription will be sent to this address. You can use a different billing address at PayPal.)</em>
-</td>
-</tr>
-
-<tr>
-<td>Address*</td>
-<td>
-<input maxlength="40" name="AddrLine" size="30" type="text" required>
-</td>
-</tr>
-
-<tr>
-<td>City*</td>
-<td>
-<input maxlength="40" name="City" size="30" type="text" required>
-</td>
-</tr>
-
-<tr>
-<td>State*</td>
-<td>
-<input maxlength="2" name="State" size="2" type="text" required>
-</td>
-</tr>
-
-<tr>
-<td>ZIP Code*</td>
-<td>
-<input maxlength="10" name="ZIP" size="10" type="text" required>
-</td>
-</tr>
-
-<tr>
-<td>Phone (10 digits, no dashes)</td>
-<td>
-<input maxlength="10" name="Phone" size="10" type="text">
-</td>
-</tr>
 
 <tr>
 <td>Email Address*</td>
