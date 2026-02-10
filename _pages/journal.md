@@ -16,27 +16,20 @@ published: true
 
   <div style="flex:1;">
     <ul>
+
       <li>
-        NAASE members receive a subscription to the
-        <em>Journal of Sports Economics</em> (<em>JSE</em>), which is published
-        eight times a year.
-      </li>
-      <li>
-        <em>JSE</em> is the oldest and most influential journal devoted
+        <em>Journal of Sports Economics</em> (<em>JSE</em>) is the oldest and most influential journal devoted
         specifically to the rapidly growing field of sports economics. Its aim
         is to further research in sports economics by bringing together
         theoretical and empirical work in a single intellectual venue.
       </li>
+      <li>
+        All NAASE members receive a subscription to the
+        *JSE*, which is published eight times a year. See electronic access instructions below.
+      </li>
     </ul>
   </div>
-
 </div>
-
-
-
-NAASE members receive receive a subscription to the *Journal of Sports Economics* (*JSE*), which is published eight times a year.
-
-*JSE* is the oldest and most influential journal devoted specifically to this rapidly growing field of sports economics. Its aim is to further research in the area of sports economics by bringing together theoretical and empirical research in a single intellectual venue.
 
 Relevant topics include:
 - Player, coach and management/ownership compensation and player-management relations
