@@ -24,8 +24,7 @@ published: true
         theoretical and empirical work in a single intellectual venue.
       </li>
       <li>
-        All NAASE members receive a subscription to the
-        *JSE*, which is published eight times a year. See electronic access instructions below.
+        All NAASE members receive a subscription to the <em>JSE</em> , which is published eight times a year. See electronic access instructions below.
       </li>
     </ul>
   </div>
