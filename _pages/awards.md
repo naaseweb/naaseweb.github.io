@@ -49,7 +49,7 @@ The Association awarded the 2014 Lawrence H. Hadley Distinguished Service Award 
 The Association awarded the inaugural Lawrence H. Hadley Distinguished Service Award to Elizabeth Gustafson — a colleague, co-author, and good friend of Larry Hadley. Professor Gustafson received her Ph.D. from the University of North Carolina, and served on the faculty at the University of Cincinnati, Miami of Ohio, and the University of Dayton (where she is currently the Associate Dean of the School of Business Administration). Elizabeth has a long and rich scholarly record which includes publications in the Review of Economics and Statistics, the Journal of Econometrics, and the Journal of Sports Economics. It was said that her service contributions to the Association, and to sports economics in general, are many and notable.
 
 ## Graduate Student Paper Award ##
-
+ 
 A committee of NAASE members selects the best sports economics research paper authored by a graduate student. The winner is selected from student-submitted papers.  
 
 <u><b>Recipients</b></u>
