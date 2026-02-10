@@ -5,6 +5,9 @@ permalink: /form/
 published: true
 ---
 
+test page 
+
+<!-- >
 <form id="contactForm" action="https://naaseweb.org/membership/form/membership-thank-you/" enctype="multipart/form-data" method="POST" name="myForm">
 
 <p>Country code (if outside North America)<br>
