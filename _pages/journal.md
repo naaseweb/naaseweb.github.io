@@ -9,7 +9,7 @@ published: true
 <div style="display:flex; align-items:flex-start; gap:20px; margin:20px 0;">
 
   <div style="flex:0 0 180px;">
-    <img src="/assets/images/jse_pic.jpg"
+    <img src="/images/jse_pic.jpg"
          alt="Journal of Sports Economics"
          style="max-width:100%; height:auto; border:1px solid #ccc;">
   </div>
