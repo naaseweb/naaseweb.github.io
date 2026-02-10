@@ -51,4 +51,4 @@ There are two steps for activating society member access on the SAGE Journals pl
 
 2). Activating society membership access 
 
- - Once you are logged into your account, click on Access/Profile to see a drop-down list, and click on ViewProfile which will take you to “My profile” page then click on ‘Society Member Access’ tab. Here select your society “North American Association of Sports Economists” from the dropdown-menu and add your membership number to activate your access. If you need your membership number, email the [Treasurer](vmatheso@holycross.edu).
+ - Once you are logged into your account, click on Access/Profile to see a drop-down list, and click on ViewProfile which will take you to “My profile” page then click on ‘Society Member Access’ tab. Here select your society “North American Association of Sports Economists” from the dropdown-menu and add your membership number to activate your access. If you need your membership number, email the {add email} [Treasurer](). 
