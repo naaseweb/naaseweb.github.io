@@ -25,7 +25,7 @@ One result of Larry’s efforts to initiate and nurture these annual sessions wa
 
 NAASE created the Larry Hadley Service Award in recognition of its namesake's valuable service contributions to the field of sports economics. Originally awarded every four years, it is now presented every other year to a deserving recipient who has distinguished herself or himself through service to NAASE and the field of sports economics. Individuals can contribute to sports economics in many ways,  but this award is intended to honor those whose contributions to the community are deemed unusual and outstanding in scope and duration.
 
-### Recipients ###
+<u><b>Recipients</b></u>
 ### 2024: John Solow ###
 
 John Solow served as NAASE's Treasurer from its founding in 2007 through 2022. He spent a long career conducting research in the field of sports economics, serving on the faculties of University of Iowa and University of Central Florida. During his 15-year stint on Executive Committee, he was a regular attendee at NAASE conference meetings, where he played a strong role in promoting the organization. 
