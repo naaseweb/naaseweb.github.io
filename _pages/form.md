@@ -103,25 +103,54 @@ Country code (if outside North America)<br>
 </tbody>
 </table>
 
-<!-- Dynamic redirect target -->
-<input type="hidden" id="_next" name="_next" value="">
-
-<!-- Email subject -->
+<!-- Email subject for Formspree -->
 <input type="hidden" name="_subject" value="New NAASE Membership Submission">
 
-<!-- Spam protection -->
+<!-- Spam protection (honeypot) -->
 <input type="text" name="_gotcha" style="display:none">
 
 <p>
-<input type="submit" value="Continue to Payment">
+  <input type="submit" value="Continue to Payment">
 </p>
+
+<p id="formStatus" style="font-weight:600;"></p>
 
 </form>
 
 <script>
-  // Makes redirect work on BOTH:
-  // naaseweb.github.io
-  // naaseweb.org (later)
-  document.getElementById('_next').value =
-    window.location.origin + '/payment/';
+  (function () {
+    const form = document.getElementById('membershipForm');
+    const statusEl = document.getElementById('formStatus');
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+      statusEl.textContent = "Submitting…";
+
+      try {
+        const formData = new FormData(form);
+
+        // Formspree prefers Accept: application/json for fetch submissions
+        const resp = await fetch(form.action, {
+          method: "POST",
+          body: formData,
+          headers: { "Accept": "application/json" }
+        });
+
+        if (!resp.ok) throw new Error("Formspree submission failed");
+
+        // Success → redirect RELATIVELY (works on GitHub + custom domain)
+        window.location.href = "/payment/";
+      } catch (err) {
+        statusEl.textContent =
+          "Submission succeeded previously but redirect failed. Please try again, or use the payment page link below.";
+        // Optional fallback link:
+        const a = document.createElement('a');
+        a.href = "/payment/";
+        a.textContent = "Go to payment";
+        a.style.display = "inline-block";
+        a.style.marginLeft = "8px";
+        statusEl.appendChild(a);
+      }
+    });
+  })();
 </script>
