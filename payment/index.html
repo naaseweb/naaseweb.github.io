@@ -1,48 +1,41 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>NAASE Payment</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: archive
+title: "Membership Payment"
+permalink: /payment/
+author_profile: true
+published: true
+---
 
-<style>
-body { font-family: Arial, Helvetica, sans-serif; max-width: 900px; margin: 40px auto; line-height: 1.5; }
-select { padding: 8px; width: 100%; max-width: 500px; }
-</style>
-</head>
-
-<body>
-
-<h1>NAASE Membership Payment</h1>
+<p>Select a membership option and complete payment through PayPal.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input name="cmd" type="hidden" value="_s-xclick">
+  <input name="hosted_button_id" type="hidden" value="BVYB3JU3KKGRN">
 
-<input name="cmd" type="hidden" value="_s-xclick">
-<input name="hosted_button_id" type="hidden" value="BVYB3JU3KKGRN">
+  <p><strong>Payment Options</strong></p>
 
-<p><strong>Payment Options</strong></p>
+  <p>
+    <select name="os0">
+      <option value="1-year -- print and electronic subscription">1-year — print and electronic subscription $55.00 USD</option>
+      <option value="2-year -- print and electronic subscription">2-year — print and electronic subscription $110.00 USD</option>
+      <option value="3-year -- print and electronic subscription">3-year — print and electronic subscription $165.00 USD</option>
+      <option value="1-year -- electronic only subscription">1-year — electronic only subscription $40.00 USD</option>
+      <option value="2-year -- electronic only subscription">2-year — electronic only subscription $80.00 USD</option>
+      <option value="3-year -- electronic only subscription">3-year — electronic only subscription $120.00 USD</option>
+      <option value="1-year student membership - electronic only">1-year student membership – electronic only $30.00 USD</option>
+    </select>
+  </p>
 
-<select name="os0">
-<option value="1-year -- print and electronic subscription">1-year — print + electronic $55</option>
-<option value="2-year -- print and electronic subscription">2-year — print + electronic $110</option>
-<option value="3-year -- print and electronic subscription">3-year — print + electronic $165</option>
-<option value="1-year -- electronic only subscription">1-year — electronic only $40</option>
-<option value="2-year -- electronic only subscription">2-year — electronic only $80</option>
-<option value="3-year -- electronic only subscription">3-year — electronic only $120</option>
-<option value="1-year student membership - electronic only">Student — electronic only $30</option>
-</select>
+  <input name="currency_code" type="hidden" value="USD">
 
-<input name="currency_code" type="hidden" value="USD">
+  <!-- Normal submit button (more reliable than PayPal image button) -->
+  <p>
+    <button type="submit" class="btn btn--primary">Pay with PayPal</button>
+  </p>
 
-<p>
-<input
-name="submit"
-type="image"
-src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif"
-alt="Pay with PayPal">
-</p>
-
+  <!-- Optional fallback direct link -->
+  <p style="font-size: 0.95em;">
+    If the button doesn’t work, try this:
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BVYB3JU3KKGRN" target="_blank" rel="noopener">Open PayPal checkout</a>
+  </p>
 </form>
-
-</body>
-</html>
