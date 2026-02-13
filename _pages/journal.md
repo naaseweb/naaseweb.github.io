@@ -43,7 +43,7 @@ Relevant topics include:
 
 There are two steps for activating society member access on the SAGE Journals platform:
 
-1). Register for and Access/Profile with SAGE 
+1). Register for an Access/Profile with SAGE 
 
  - If you have not previously registered for an account, click [here](https://journals.sagepub.com/action/registration) and follow the instructions to create your profile.
 

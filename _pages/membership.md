@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-NAASE membership is open who anyone who interested in the economics of sports.  Our membership is global, and includes interests and perspectives on many aspects of this sub-field. Discount memberships are available for students. 
+NAASE membership is open who anyone who is interested in the economics of sports.  Our membership is global, and includes interests and perspectives on many aspects of this sub-field. Discount memberships are available for students. 
 
 ## Membership Benefits
 NAASE members receive the *Journal of Sports Economics* as part of their membership, representing a significant savings on the regular individual subscription rate of $172/year.
