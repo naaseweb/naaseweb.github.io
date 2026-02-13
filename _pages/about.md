@@ -16,6 +16,10 @@ NAASE was formed to promote and facilitate research and teaching in the economic
 Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
 
 ## Announcements:
+### Awards ### 
+
+- The Executive Committee is now accepting nominations for the [Larry Hadley Service Award](/_pages/awards.md#larry-hadley-service-award)
+
 ### Upcoming Conferences: ### 
 - Eastern Economic Association ([May 6-8 \| La Romana, Dominican Republic](https://eea.mymeetingsavvy.net/program))
 
