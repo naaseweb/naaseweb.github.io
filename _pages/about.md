@@ -16,5 +16,11 @@ NAASE was formed to promote and facilitate research and teaching in the economic
 Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
 
 ## Announcements:
+### Upcoming Conferences: ### 
+- Eastern Economic Association ([May 6-8 \| La Romana, Dominican Republic](https://eea.mymeetingsavvy.net/program))
 
-NAASE is sponsoring several sessions at the [101st Annual Conference of the Western Economic Association International](https://www.weai.org/events/101st-annual), in Denver, Colorado (June 29 -July 3).
+- Western Economic Association International ([June 29 - July 3, 2026 \| Denver, CO](https://www.weai.org/events/101st-annual))
+    - Contact Jane Ruseski or Jill Harris if you are interested in participating in one of the sports economics sessions   
+
+- Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
+    - The call for papers for sports economics sessions is now open. Please submit paper titles, abstracts, and contact information to Frank Stephenson by DEADLINE.
