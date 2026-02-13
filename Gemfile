@@ -19,3 +19,5 @@ gem "csv", "~> 3.3"
 gem "logger", "~> 1.7"
 
 gem "uri", "~> 1.1"
+
+gem "tzinfo-data", "~> 1.2025"
