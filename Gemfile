@@ -11,3 +11,11 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem "bigdecimal", "~> 4.0"
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "uri", "~> 1.1"
