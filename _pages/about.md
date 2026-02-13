@@ -9,9 +9,9 @@ redirect_from:
 
 **Website UNDER CONSTRUCTION**  
 
-This is the official website of the the North American Association of Sports Economists (NAASE). NAASE was formed to promote and facilitate research and teaching in the economics of sports, and we work to maintain and enhance communication and share ideas within North America and throughout the world.  This website includes information about association activities and resources for members. See the announcement below for information regarding future conferences and opportunities relating to sports economics. 
+This is the official website of the North American Association of Sports Economists (NAASE). NAASE exists to promote and facilitate research and teaching on the economics of sports.  Though our organization is based in North America, our membership extends worldwide. This website includes information about association activities and resources for members, including future conferences and other opportunities relating to sports economics. 
 
-Membership is open to any person interested in the economics of sports. All paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
+Membership is open to any person interested in the economics of sports. All dues-paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join.
 
 ## Announcements:
 ### Awards ### 
