@@ -18,7 +18,7 @@ Membership is open to any person interested in the economics of sports. All payi
 ## Announcements:
 ### Awards ### 
 
-- The Executive Committee is now accepting nominations for the [Larry Hadley Service Award](/_pages/awards.md#larry-hadley-service-award)
+- The Executive Committee is now accepting nominations for the [Larry Hadley Service Award](/awards.md#larry-hadley-service-award)
 
 ### Upcoming Conferences: ### 
 - Eastern Economic Association ([May 6-8 \| La Romana, Dominican Republic](https://eea.mymeetingsavvy.net/program))
