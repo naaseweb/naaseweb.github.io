@@ -26,4 +26,4 @@ NAASE is committed to organizing sports economics sessions at the annual meeting
 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
     - Program Chair: Frank Stephenson
-
+   

@@ -21,3 +21,5 @@ gem "logger", "~> 1.7"
 gem "uri", "~> 1.1"
 
 gem "tzinfo-data", "~> 1.2025"
+
+gem "wdm", "~> 0.2.0"
