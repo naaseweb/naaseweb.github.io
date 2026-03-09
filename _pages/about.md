@@ -15,6 +15,10 @@ Membership is open to any person interested in the economics of sports. All dues
 ### Awards ### 
 
 - The Executive Committee is now accepting nominations for the [Larry Hadley Service Award](/awards.md#larry-hadley-service-award)
+    - Please submit nominations to [Frank Stephenson](https://berry.edu/academics/fs/fstephenson) by 3/31/26.  
+
+- NAASE invites nominations for the positions of President-elect (to serve 2026-2028, then 2028-2030 as President) and at-large executive committee member (2026-2030). Nominations should be sent to the chair of the nominating committee [Mike Leeds](https://liberalarts.temple.edu/directory/michael-leeds) by 3/31/2026.
+
 
 ### Upcoming Conferences: ### 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
