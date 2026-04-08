@@ -58,6 +58,17 @@ Patrick Reilly,
 Treasurer : Victor Matheson  
 Secretary:  Jane Ruseski    
 
+<u>2022-2023</u>  
+President: J.C. Bradbury  
+President-Elect: Frank Stephenson  
+At-Large Board Members:
+Jill Harris, 
+Eva Marikova Leeds, 
+Brian Soebbing, 
+Nola Agha,  
+Treasurer : John Solow    
+Secretary:  Jane Ruseski 
+
 <u>2021-2022</u>  
 President:  Craig Depken  
 President-Elect: J.C. Bradbury  
