@@ -14,7 +14,7 @@ Membership is open to any person interested in the economics of sports. All dues
 ## Announcements:
 ### Awards ### 
 
-- Congratulations to Peter von Allmen and Michael Leeds who were announced as the 2026 recipients of the [Larry Hadley Service Award](/awards.md#larry-hadley-service-award) during NAASE membership meeting at the Western Economic Association International. 
+- Congratulations to Peter von Allmen and Michael Leeds who were announced as the 2026 recipients of the [Larry Hadley Service Award](/awards.md#larry-hadley-service-award) during the NAASE membership meeting at the Western Economic Association International Annual Conference. 
 
 
 
