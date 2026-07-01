@@ -20,11 +20,11 @@ NAASE's Executive Committee consists of seven elected members (President, Presid
 ### Current Officers
 <u>2025-2026 </u>  
 *Executive Committee*  
-President: Frank Stephenson, Berry College  
-President-Elect: Eva Marikova Leeds, Moravian College  
-Past-President: J.C. Bradbury, Kennesaw State University  
+President:  Eva Marikova Leeds, Moravian College 
+President-Elect:  J.C. Bradbury, Kennesaw State University 
+Past-President: Frank Stephenson, Berry College  
 At-Large: Patrick Reilly, Skidmore College  
-At-Large: Brian Soebbing, University of Alberta  
+At-Large: Jeremy Losak, Syracuse University  
 At-Large: Clay Collins, University of Georgia  
 At-Large: Craig Depken, University of North Carolina-Charlotte  
 Treasurer: Victor Matheson, College of the Holy Cross  
@@ -36,6 +36,20 @@ Southern Economic Association Meeting Committee Chair: Frank Stephenson
 Eastern Economic Association Meeting Committee Chair:  Eva Marikova Leeds  
 
 ### Past Officers
+
+<u>2025-2026 </u>  
+*Executive Committee*  
+President: Frank Stephenson  
+President-Elect: Eva Marikova Leeds  
+Past-President: J.C. Bradbury  
+At-Large: Patrick Reilly,  
+At-Large: Brian Soebbing,  
+At-Large: Clay Collins,  
+At-Large: Craig Depken,  
+Treasurer: Victor Matheson,   
+Secretary:  Jane Ruseski,  
+
+
 <u>2024-2025</u>  
 President: Frank Stephenson  
 President-Elect: Eva Marikova Leeds  
