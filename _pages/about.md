@@ -20,16 +20,12 @@ Membership is open to any person interested in the economics of sports. All dues
 
 ### Upcoming Conferences: ### 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
-    - The call for papers for sports economics sessions is now open. To submit a paper, please email the following information to [Frank Stephenson](https://berry.edu/academics/fs/fstephenson):
-        - Presenter’s name, affiliation, and email address.
-        - The name, affiliation, and email address for any coauthors.
-        - The paper title and abstract.
-        - JEL codes (two)
-    - The deadline for submissions is March 28, 2026.
+    - Contact  [Frank Stephenson](https://berry.edu/academics/fs/fstephenson) if you are interested in participating in a NAASE session
 
 - Western Economic Association International ([June 27-July 1, 2027, Honolulu, Hawaii](https://www.weai.org/annual-conference))
-    - Call for papers to come. Contact Jane Ruseski if you are interested in participating in one of the sports economics sessions   
+    - Call for papers to come.   
 
-- Eastern Economic Association ([May 6-8 \| La Romana, Dominican Republic](https://eea.mymeetingsavvy.net/program))
+- Eastern Economic Association ([2007 dates TBD \| Sheraton Times Square, New York, NY](https://eea.meetingsavvy.net/login))
+    - Cal for papers to come.
 
  
