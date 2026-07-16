@@ -27,7 +27,7 @@ NAASE is excited to announce the NAASE Early Scholars Travel Grant program. Pre-
 - Western Economic Association International ([June 27-July 1, 2027, Honolulu, Hawaii](https://www.weai.org/annual-conference))
     - Call for papers to come.   
 
-- Eastern Economic Association ([2007 dates TBD \| Sheraton Times Square, New York, NY](https://eea.meetingsavvy.net/login))
+- Eastern Economic Association ([2027 dates TBD \| Sheraton Times Square, New York, NY](https://eea.meetingsavvy.net/login))
     - Cal for papers to come.
 
  
