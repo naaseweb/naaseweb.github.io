@@ -29,7 +29,7 @@ NAASE created the Larry Hadley Service Award in recognition of its namesake's va
 <u><b>Recipients</b></u>
 ### 2026: Peter von Allmen and Michael Leeds ###
 
-The 2026 award goes to Michael Leeds of Temple University and Peter von Allmen of Skidmore College. Professors Leeds and von Allmen have served terms as president of NAASE. They have also made a significant contribution to the sports economics discipline by co-authoring the leading sports economics textbook, thereby helping spread the teaching of sports economics across colleges and universities around the world. Michael and Peter, we thank and honor you for your contributions to NAASE and sports economics.  
+The 2026 award goes to Michael Leeds of Temple University and Peter von Allmen of Skidmore College. Professors Leeds and von Allmen have served terms as president of NAASE. They have also made a significant contribution to the sports economics discipline by co-authoring the leading sports economics textbook, thereby helping spread the teaching of sports economics across colleges and universities around the world.
 
 
 ### 2024: John Solow ###
