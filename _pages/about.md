@@ -27,8 +27,8 @@ Membership is open to any person interested in the economics of sports. All dues
         - JEL codes (two)
     - The deadline for submissions is March 28, 2026.
 
-- Western Economic Association International ([June 29 - July 3, 2026 \| Denver, CO](https://www.weai.org/events/101st-annual))
-    - Contact Jane Ruseski or Jill Harris if you are interested in participating in one of the sports economics sessions   
+- Western Economic Association International ([June 27-July 1, 2027, Honolulu, Hawaii](https://www.weai.org/annual-conference))
+    - Call for papers to come. Contact Jane Ruseski if you are interested in participating in one of the sports economics sessions   
 
 - Eastern Economic Association ([May 6-8 \| La Romana, Dominican Republic](https://eea.mymeetingsavvy.net/program))
 
