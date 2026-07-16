@@ -23,11 +23,10 @@ NAASE is excited to announce the NAASE Early Scholars Travel Grant program. Pre-
 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
     - The 2026 call for papers has closed, but contact  [Frank Stephenson](https://berry.edu/academics/fs/fstephenson) if you are interested in participating in a NAASE session.
+- Eastern Economic Association ([2027 dates TBD \| Sheraton Times Square, New York, NY](https://eea.meetingsavvy.net/login))
+    - Cal for papers to come.
 
 - Western Economic Association International ([June 27-July 1, 2027, Honolulu, Hawaii](https://www.weai.org/annual-conference))
     - Call for papers to come.   
-
-- Eastern Economic Association ([2027 dates TBD \| Sheraton Times Square, New York, NY](https://eea.meetingsavvy.net/login))
-    - Cal for papers to come.
 
  
