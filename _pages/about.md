@@ -19,7 +19,7 @@ Membership is open to any person interested in the economics of sports. All dues
 
 
 ### Upcoming Conferences: ### 
-NAASE is excited to announce the NAASE Early Scholars Travel Grant program. Pre-tenure faculty members who are first-time paper presenters in a NAASE-organized session are eligible for a competitive travel grant of $500 to present in a NAASE-organized session at the Eastern Economic Association, Southern Economic Association, or Western Economic Association International meetings. More details will be provided in the call for papers for each conference.
+NAASE is excited to announce the NAASE Early Scholars Travel Grant program. Pre-tenure faculty members who are first-time paper presenters in a NAASE-organized session are eligible for a competitive travel grant of $500 to present at the Eastern Economic Association, Southern Economic Association, or Western Economic Association International meetings. More details will be provided in the call for papers for each conference.
 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
     - The 2026 call for papers has closed, but contact  [Frank Stephenson](https://berry.edu/academics/fs/fstephenson) if you are interested in participating in a NAASE session.
