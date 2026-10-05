@@ -12,7 +12,10 @@ This is the official website of the North American Association of Sports Economi
 Membership is open to any person interested in the economics of sports. All dues-paying members receive a subscription to *Journal of Sports Economics*, at a discounted rate. See the [membership](/membership/) page to join. 
 
 ## Announcements:
+
+
 ### Awards ### 
+- NAASE invites submissions for the 2026 Graduate Student Paper Award. In addition to recognition, the award carries a monetary prize to present the winning paper at a NAASE conference. Email submissions to [Frank Stephenson](https://berry.edu/academics/fs/fstephenson) by October 15.
 
 - Congratulations to Peter von Allmen and Michael Leeds who were announced as the 2026 recipients of the [Larry Hadley Service Award](/awards.md#larry-hadley-service-award) during the NAASE membership meeting at the Western Economic Association International Annual Conference. 
 
