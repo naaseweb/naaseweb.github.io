@@ -18,11 +18,11 @@ NAASE is committed to organizing sports economics sessions at the annual meeting
 
 ## Upcoming Conferences
 
-- Eastern Economic Association ([May 6-8 \| La Romana, Dominican Republic](https://eea.mymeetingsavvy.net/program))
+- Eastern Economic Association ([February 11-14, 2027 \| Sheraton Times Square, New York, NY](https://www.ramapo.edu/eea/))
     - Program Chair: Eva Marikova Leeds
 
-- Western Economic Association International ([June 29 - July 3, 2026 \| Denver, CO](https://www.weai.org/events/101st-annual))
-    - Program Chair: Jane Ruseski and Jill Harris   
+- Western Economic Association International ([June 27 - July 1, 2027 \| Honolulu, Hawaii](https://www.weai.org/events/102nd-annual-conference))
+    - Program Chair: Jane Ruseski  
 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
     - Program Chair: Frank Stephenson
