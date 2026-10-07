@@ -26,6 +26,12 @@ NAASE is excited to announce the NAASE Early Scholars Travel Grant program. Pre-
 
 - Southern Economic Association ([November 21-23, 2026  \|  Houston, TX](https://southerneconomic.org/conference/))
     - The 2026 call for papers has closed, but contact  [Frank Stephenson](https://berry.edu/academics/fs/fstephenson) if you are interested in participating in a NAASE session.
+
+- Western Economic Association International (WEAI) International Conference ([April 22-25, 2027  \| Seoul, South Korea](https://www.weai.org/events/19th-international-conference)). 
+    - If you have a sports economics paper you would like to present in Seoul, please email Jane Ruseski 
+(jeruseski@mail.wvu.edu). Include the following information: Paper title, Abstract, Presenter’s and co-authors' names (with affiliations, and emails) and JEL codes (two). Deadline: November 15, 2026.
+
+
 - Eastern Economic Association ([February 11-14 \| Sheraton Times Square, New York, NY](https://www.ramapo.edu/eea/))
     - If you are interested in presenting, please send a paper title along with full contact information for all co-authors to [Victor Matheson](https://www.holycross.edu/academics/people/victor-matheson) and [Eva Leeds](https://www.moravian.edu/sobe/faculty/leeds) by November 15, 2026.
 
