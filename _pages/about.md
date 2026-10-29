@@ -38,4 +38,7 @@ NAASE is excited to announce the NAASE Early Scholars Travel Grant program. Pre-
 - Western Economic Association International ([June 27-July 1, 2027, Honolulu, Hawaii](https://www.weai.org/annual-conference))
     - Call for papers to come.   
 
+- Latin American Sports Economics Conference (June 24-25, 2027, Santiago, Chile)
+    - [Call for papers](https://lasec.fen.uchile.cl/#call-for-papers) (Submission deadline: March 1, 2027)
+
  
